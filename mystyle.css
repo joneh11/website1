@@ -1,0 +1,43 @@
+body { 
+
+background-image: url("websiteback.png");
+font-family: Comfortaa;
+font-size: 10px;
+font-style:normal;
+} 
+
+h3 {
+  font-family: 'ComfortaaNormal'; 
+   font-weight: normal; 
+   font-style: normal; 
+letter-spacing:.10px;
+font-size: 20px;
+color:#151B54;
+}
+
+p {   font-family: 'Comfortaalight'; 
+   font-weight: light; 
+   font-style: normal; 
+	font-size:12px;
+	line-height:18px;
+	 }
+h2 {
+font-family: 'ComfortaaNormal'; 
+   font-weight: normal; 
+   font-style: normal; 
+letter-spacing:.10px;
+font-size: 12px;
+color:#151B54;}
+
+strong {
+font-family: 'ComfortaaNormal'; 
+   font-weight: normal; 
+   font-style: normal; 
+   font-size: 18px; 
+color:#151B54;}
+
+ul { font-family: 'Comfortaalight'; 
+   font-weight: light; 
+   font-style: normal; 
+	font-size:12px;
+	line-height:18px;}
